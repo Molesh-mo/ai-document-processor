@@ -1,0 +1,10 @@
+INVOICE
+
+Invoice No: INV-1002
+Date: 2026-10-05
+Bill To: Greenline Cleaning Services
+
+Description: Monthly social media management
+Subtotal: R2,500.00
+VAT (15%): R375.00
+Total: R2,875.00

@@ -1,0 +1,10 @@
+INVOICE
+
+Invoice No: INV-1001
+Date: 2026-10-01
+Bill To: Sunrise Bakery (Pty) Ltd
+
+Description: Website design and setup
+Subtotal: R4,000.00
+VAT (15%): R600.00
+Total: R4,600.00

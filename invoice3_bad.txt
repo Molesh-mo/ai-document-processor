@@ -1,0 +1,8 @@
+INVOICE
+
+Invoice No: INV-1003
+Date: 31 October
+Bill To: Moonlight Salon
+
+Description: Logo design
+Subtotal: R1,200.00
